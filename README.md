@@ -2,7 +2,7 @@
 Projects done while Machine Learning NanoDegree Udacity
 
 
-![](image/MLND.pdf)
+![](MLND.pdf)
 
 ## 1 Finding Donors
 
